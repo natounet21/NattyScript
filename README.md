@@ -1,0 +1,2 @@
+# NattyScript
+A useless language
