@@ -26,3 +26,18 @@ To make variables  in a string put ${VARIABLE_NAME}$
 ## LIBARARIES
 There is default librraies if you put in your libs folder and import them you can use.
 (I'm too lazy to doc them right now)
+# Examples
+## Hello World
+```NattyScript
+print Hello, World!
+```
+## 1+1 (Using the math lib)
+```NattyScript
+import math
+let num = 1
+let num2 = 1
+add num $num2$
+print $output$
+```
+
+This is work in progress and the source code is being clean up to publish it
