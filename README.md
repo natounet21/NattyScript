@@ -41,6 +41,7 @@ import {LIBRARY_NAME} - import a lib from the libs folder
 
 ## MISCS
 To make variables in a string put `$VARIABLE_NAME$` (NOT IN IF STATEMENTS WARNING)
+when there is an output or input entered it will put it in the output variable
 ## LIBARARIES
 There is default librraies if you put in your libs folder and import them you can use.
 (I'm too lazy to doc them right now)
